@@ -1,0 +1,169 @@
+.title {
+    background-color: bisque;
+    margin-top: 1px;
+    text-shadow: 5ch;
+
+}
+
+.loki {
+    width: 100px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+
+}
+
+.posted {
+    margin-top: -20px;
+    font-size: small;
+}
+
+.magazine {
+    width: 500px;
+    back
+}
+
+.musk {
+    width: 80px;
+
+}
+
+.albert {
+    width: 80px;
+
+}
+
+.modi {
+    width: 80px;
+}
+
+
+.copyright {
+    background-color: rgb(167, 167, 147);
+    text-align: center
+}
+
+p {
+
+
+
+    margin-top: 10px;
+}
+
+.containar {
+    margin-left: 50px;
+    margin-right: 50px;
+
+    border-top: 6px solid rgb(148, 66, 66);
+    border-bottom: 6px solid rgb(147, 78, 78);
+    display: grid;
+    background-color: rgb(198, 102, 102);
+
+
+}
+
+
+.powerfull-mans {
+    background-color: rgb(183, 178, 187);
+    padding-left: 50px;
+    margin-top: -50;
+
+}
+
+.copyright {
+    margin-top: 600px;
+    margin-bottom: 1px;
+    margin-top: -10px;
+    text-align: center
+}
+
+.body {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    column-gap: 30px;
+    row-gap: 30px;
+
+
+}
+
+
+
+
+a {
+    text-decoration: rgb(33, 121, 107)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+}
